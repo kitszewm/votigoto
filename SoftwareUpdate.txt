@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add missing single-line docstrings (#8362)
