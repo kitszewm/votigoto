@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Docs updates and improvements (#8183)
