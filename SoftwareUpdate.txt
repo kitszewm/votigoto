@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Expand Model method type hinting (#8279)
