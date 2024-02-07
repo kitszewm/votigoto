@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
